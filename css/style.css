@@ -1,0 +1,26 @@
+/* Hide navbar initially */
+#navbar {
+  display: none;
+  transition: all .5s;
+}
+
+/* Carousel captions */
+.carousel-caption {
+  background: rgba(0,0,0,0.5);
+  border-radius: .5rem;
+}
+
+/* Developer images circular */
+.dev-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* Footer */
+footer {
+  background: #f8f9fa;
+  padding: 1rem 0;
+  text-align: center;
+}
